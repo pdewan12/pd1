@@ -25,3 +25,5 @@ table1 afib_ecg anem ckd_c copd_flg1 dbt_flg2 hyp_flg1 mi_flg1 obese_c pvd_c stk
 this is a tutorial
 
 today if wednesday
+
+today is mondAY
